@@ -1,7 +1,9 @@
+ /* Ignore the CSS*/
+
 body {
 
 background: #640C1B;
-background: radial-gradient(at center, #640C1B, #C9B462);    font-family: 'Pirata One', cursive; /* One Piece inspired font */
+background: radial-gradient(at center, #640C1B, #C9B462);    font-family: 'Pirata One', cursive; 
     color: #333;
     margin: 0;
     padding: 0;
